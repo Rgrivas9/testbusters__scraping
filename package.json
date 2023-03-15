@@ -1,0 +1,19 @@
+{
+  "name": "scrapping-countries",
+  "version": "1.0.0",
+  "description": "Get data of countries",
+  "main": "index.js",
+  "scripts": {
+    "href": "node ./src/getHref",
+    "scrapping": "node ./src/scrapping",
+    "scripting": "node ./src/scripting",
+    "seeds": "node ./src/seeds",
+    "images": "node ./src/saveImages"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.7.4"
+  }
+}
