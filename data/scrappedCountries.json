@@ -109,11 +109,12 @@
     "official_name": "Antarctica",
     "flag": "https://flagpedia.net//data/flags/w1160/aq.png",
     "status": "No",
+    "capital": "Penguin city",
     "area": 14000000,
     "population": 3000,
     "cities": [],
     "currency": "United States dollar",
-    "continent": ""
+    "continent": "Antarctica"
   },
   {
     "id": 10,
@@ -381,11 +382,12 @@
     "official_name": "Bouvet Island",
     "flag": "https://flagpedia.net//data/flags/w1160/bv.png",
     "status": "No",
+    "capital": "Oslo",
     "area": 49,
     "population": 0,
     "cities": [],
     "currency": "Bhutanese ngultrum",
-    "continent": ""
+    "continent": "Antarctica"
   },
   {
     "id": 31,
@@ -523,6 +525,7 @@
     "official_name": "Bonaire, Sint Eustatius and Saba",
     "flag": "https://flagpedia.net//data/flags/w1160/bq.png",
     "status": "No",
+    "capital": "Kralendijk",
     "area": 328,
     "population": 25157,
     "cities": [],
@@ -852,7 +855,7 @@
     "population": 100052943,
     "cities": [],
     "currency": "Egyptian pound",
-    "continent": ""
+    "continent": "Africa"
   },
   {
     "id": 67,
@@ -878,7 +881,7 @@
     "population": 55977178,
     "cities": [],
     "currency": "British pound (£, GBP)",
-    "continent": ""
+    "continent": "Europe"
   },
   {
     "id": 69,
@@ -1047,7 +1050,7 @@
     "population": 0,
     "cities": [],
     "currency": "Euro",
-    "continent": ""
+    "continent": "Various"
   },
   {
     "id": 82,
@@ -1278,9 +1281,10 @@
     "status": "No",
     "area": 412,
     "population": 0,
+    "capital": "London",
     "cities": [],
-    "currency": "",
-    "continent": ""
+    "currency": "British pound (£, GBP)",
+    "continent": "South America"
   },
   {
     "id": 100,
@@ -1358,7 +1362,7 @@
     "population": 266911900,
     "cities": [],
     "currency": "Indonesian rupiah",
-    "continent": ""
+    "continent": "Asia"
   },
   {
     "id": 106,
@@ -1719,6 +1723,7 @@
     "status": "No",
     "area": 30,
     "population": 676100,
+    "capital": "Beijing",
     "cities": [],
     "currency": "Macanese pataca (P, MOP)",
     "continent": "Asia"
@@ -1889,7 +1894,7 @@
     "area": 702,
     "population": 104468,
     "cities": [],
-    "currency": "",
+    "currency": "United States dollar",
     "continent": "Oceania"
   },
   {
@@ -2163,7 +2168,7 @@
     "population": 1885400,
     "cities": [],
     "currency": "British pound (£, GBP)",
-    "continent": ""
+    "continent": "Europe"
   },
   {
     "id": 168,
@@ -2240,7 +2245,7 @@
     "area": 6020,
     "population": 5051953,
     "cities": [],
-    "currency": "Egyptian pound (E£, EGP), Israeli new shekel (₪, ILS), Jordanian dinar (JD, JOD)",
+    "currency": "Egyptian pound (E£, EGP)",
     "continent": "Asia"
   },
   {
@@ -2316,7 +2321,7 @@
     "status": "No",
     "capital": "Adamstown",
     "area": 47,
-    "population": 50,
+    "population": 67,
     "cities": [],
     "currency": "New Zealand dollar",
     "continent": "Oceania"
@@ -2410,7 +2415,7 @@
     "population": 146780720,
     "cities": [],
     "currency": "Russian ruble",
-    "continent": ""
+    "continent": "Asia"
   },
   {
     "id": 187,
@@ -2579,7 +2584,7 @@
     "population": 5424800,
     "cities": [],
     "currency": "British pound (£, GBP)",
-    "continent": ""
+    "continent": "Europe"
   },
   {
     "id": 200,
@@ -2726,7 +2731,7 @@
   },
   {
     "id": 211,
-    "name": "South Georgia",
+    "name": "South Georgia and the South Sandwich Islands",
     "official_name": "South Georgia and the South Sandwich Islands",
     "flag": "https://flagpedia.net//data/flags/w1160/gs.png",
     "status": "No",
@@ -2735,7 +2740,7 @@
     "population": 0,
     "cities": [],
     "currency": "Saint Helena pound (£, SHP)",
-    "continent": ""
+    "continent": "South America"
   },
   {
     "id": 212,
@@ -2995,7 +3000,7 @@
     "population": 83154997,
     "cities": [],
     "currency": "Turkish lira",
-    "continent": ""
+    "continent": "Europe"
   },
   {
     "id": 232,
@@ -3107,6 +3112,7 @@
     "official_name": "United States Minor Outlying Islands",
     "flag": "https://flagpedia.net//data/flags/w1160/um.png",
     "status": "No",
+    "capital": "Washington D.C.",
     "area": 34,
     "population": 300,
     "cities": [],
@@ -3228,7 +3234,7 @@
     "population": 3139000,
     "cities": [],
     "currency": "British pound (£, GBP)",
-    "continent": ""
+    "continent": "Europe"
   },
   {
     "id": 250,
